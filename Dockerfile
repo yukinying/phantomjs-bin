@@ -13,4 +13,4 @@ RUN apt-get update \
 RUN cd / && git clone --recurse-submodules git://github.com/ariya/phantomjs.git \
   && cd /phantomjs \
   && git checkout -f 2.0.0 \
-  && ./build.sh
+  && ./build.sh --confirm
