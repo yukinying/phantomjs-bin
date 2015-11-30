@@ -5,4 +5,4 @@ This repository served as a temporary space for storing the binary of Phantomjs 
 Here is a list of those platforms (see tags / releases for the list as well):
 
 - Debian 8: Jessie
-  - why: libjpeg, libicu* are updated and the Debian 7 version no longer works.
+  - rationale: libjpeg, libicu* are updated and the Debian 7 version no longer works.
